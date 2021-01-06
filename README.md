@@ -1,2 +1,2 @@
 # Aquile Reader Feedback
-This repository is for tracking the bugs/feedbacks for Aquile Reader app.
+This repository is for tracking bugs/feedback for Aquile Reader app.
